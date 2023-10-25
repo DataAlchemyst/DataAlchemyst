@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Leyla
 - 🌱 I’m currently learning Python & SQL 
 - 👀 I’m looking to work in Data projects as Junior Analyst
-- 📫 How to reach me: [telegram](https://t.me/leyla_ni), e-mail: leyla1542@yandex.ru
+- 📫 How to reach me: [telegram](https://t.me/leyla_ni)
